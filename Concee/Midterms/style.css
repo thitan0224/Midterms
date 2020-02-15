@@ -1,0 +1,49 @@
+.head {
+  border-radius: 90%;
+  background-color: black;
+  width: 72px;
+  height: 72px;
+  position: absolute;
+  left: 45.7%;
+  top: 13%;
+}
+.body {
+ height: 250px;
+ width: 90px;
+ background-color: black;
+ position: absolute;
+ left: 45%;
+ top: 25%;
+}
+.left.arm {
+  height: 40px;
+  width:  200px;
+  position: absolute;
+  background-color: black;
+  left: 33%;
+  top: 28%;
+}
+.right.arm {
+  height: 40px;
+  width:  200px;
+  position: absolute;
+  background-color: black;
+  left: 50%;
+  top: 28%;
+}
+.left.binti{
+  height: 180px;
+  width: 40px;
+  position: absolute;
+  background-color: #798fa8;
+  top: 63%;
+  left: 45%;
+}
+.right.binti{
+  height: 180px;
+  width: 40px;
+  position: absolute;
+  background-color: #798fa8 ;
+  top: 63%;
+  left: 48.6%;
+}
